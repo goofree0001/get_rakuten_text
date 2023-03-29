@@ -17,7 +17,7 @@ def main()
 
 	f.close()
 
-	url = "https://www.rakuten-card.co.jp/e-navi/index.xhtml"
+	url = ""
 	driver = Selenium::WebDriver.for :chrome
 
 	# 10秒でタイムアウト判定
