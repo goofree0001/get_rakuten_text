@@ -33,7 +33,7 @@ def main():
 
 	f.close()
 
-	url = "https://www.rakuten-card.co.jp/e-navi/index.xhtml"
+	url = ""
 
 	#　ヘッドレスモードでブラウザを起動
 	options = Options()
